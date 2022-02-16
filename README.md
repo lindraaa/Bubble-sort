@@ -1,6 +1,11 @@
 # Bubble-sort
 c++ code 
-
+-
+-
+-
+-
+-
+-
 
 
 
